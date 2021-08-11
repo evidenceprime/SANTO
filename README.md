@@ -49,7 +49,7 @@ A demo instance that is routinely reset is available at http://psink.techfak.uni
     Test your login at https://serveruri/
 3. Import schema.sql into the database you created induring step 2.
     ```bash
-    mysql -u<user> -p <database name> < schema.sql
+    mysql -u <user> -p <database name> < schema.sql
     ```
 4. Adjust config/annodb.config and provide connection details (hostname, username, password, schema (= database name))  for your installation.
     ```
@@ -70,7 +70,7 @@ A demo instance that is routinely reset is available at http://psink.techfak.uni
     Country Countries Country 2
     ```
     The above would generate two sections of persons and country objects with the respective plural form as their heading.
-7. Upload your ontology descriptor files (see [examples/](examples/) folder) under https://serveruri/Upload.html
+7. Upload your ontology descriptor files (see [examples/](examples/) folder) under https://serveruri/Udate.html
     The descriptor files, containing tab-separated fields are:
     * **[examples/dbpedia_2014_classes.csv](classes.csv)** Classname, "true"/"false", Description, where the boolean indicates whether or not the class describes individual names
     * **[examples/dbpedia_2014_subclasses.csv](subclasses.csv)** Superclass, Subclass
