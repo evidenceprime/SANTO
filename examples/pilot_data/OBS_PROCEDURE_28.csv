@@ -1,0 +1,484 @@
+#Fetal and maternal responses to yoga in the third trimester
+1	1	0	5	Fetal
+1	2	6	9	and
+1	3	10	18	maternal
+1	4	19	28	responses
+1	5	29	31	to
+1	6	32	36	yoga
+1	7	37	39	in
+1	8	40	43	the
+1	9	44	49	third
+1	10	50	59	trimester
+#Objective: The primary purpose of this study was to examine maternal and fetal responses to a typical, moderate-intensity yoga session in healthy pregnant women during the third trimester using continuous monitoring.
+2	1	60	69	Objective
+2	2	69	70	:
+2	3	71	74	The
+2	4	75	82	primary
+2	5	83	90	purpose
+2	6	91	93	of
+2	7	94	98	this
+2	8	99	104	study
+2	9	105	108	was
+2	10	109	111	to
+2	11	112	119	examine
+2	12	120	128	maternal
+2	13	129	132	and
+2	14	133	138	fetal
+2	15	139	148	responses
+2	16	149	151	to
+2	17	152	153	a
+2	18	154	161	typical
+2	19	161	162	,
+2	20	163	181	moderate-intensity
+2	21	182	186	yoga
+2	22	187	194	session
+2	23	195	197	in
+2	24	198	205	healthy
+2	25	206	214	pregnant
+2	26	215	220	women
+2	27	221	227	during
+2	28	228	231	the
+2	29	232	237	third
+2	30	238	247	trimester
+2	31	248	253	using
+2	32	254	264	continuous
+2	33	265	275	monitoring
+2	34	275	276	.
+#Methods: This prospective observational study in low-risk, pregnant women used the Monica AN24 Abdominal ECG wireless maternal-fetal monitor to measure fetal heart rate, maternal heart rate, and uterine activity during a prenatal yoga session.
+3	1	493	500	Methods
+3	2	500	501	:
+3	3	502	506	This
+3	4	507	518	prospective
+3	5	519	532	observational
+3	6	533	538	study
+3	7	539	541	in
+3	8	542	550	low-risk
+3	9	550	551	,
+3	10	552	560	pregnant
+3	11	561	566	women
+3	12	567	571	used
+3	13	572	575	the
+3	14	576	582	Monica
+3	15	583	587	AN24
+3	16	588	597	Abdominal
+3	17	598	601	ECG
+3	18	602	610	wireless
+3	19	611	625	maternal-fetal
+3	20	626	633	monitor
+3	21	634	636	to
+3	22	637	644	measure
+3	23	645	650	fetal
+3	24	651	656	heart
+3	25	657	661	rate
+3	26	661	662	,
+3	27	663	671	maternal
+3	28	672	677	heart
+3	29	678	682	rate
+3	30	682	683	,
+3	31	684	687	and
+3	32	688	695	uterine
+3	33	696	704	activity
+3	34	705	711	during
+3	35	712	713	a
+3	36	714	722	prenatal
+3	37	723	727	yoga
+3	38	728	735	session
+3	39	735	736	.
+#Sessions included 4 time periods: (1) 20-minute rest, (2) 50 minutes standard prenatal yoga, (3) 10-minute meditation, (4) 20-minute recovery.
+4	1	981	989	Sessions
+4	2	990	998	included
+4	3	999	1000	4
+4	4	1001	1005	time
+4	5	1006	1013	periods
+4	6	1013	1014	:
+4	7	1015	1016	(
+4	8	1016	1017	1
+4	9	1017	1018	)
+4	10	1019	1028	20-minute
+4	11	1029	1033	rest
+4	12	1033	1034	,
+4	13	1035	1036	(
+4	14	1036	1037	2
+4	15	1037	1038	)
+4	16	1039	1041	50
+4	17	1041	1042	 
+4	18	1042	1049	minutes
+4	19	1050	1058	standard
+4	20	1059	1067	prenatal
+4	21	1068	1072	yoga
+4	22	1072	1073	,
+4	23	1074	1075	(
+4	24	1075	1076	3
+4	25	1076	1077	)
+4	26	1078	1087	10-minute
+4	27	1088	1098	meditation
+4	28	1098	1099	,
+4	29	1100	1101	(
+4	30	1101	1102	4
+4	31	1102	1103	)
+4	32	1104	1113	20-minute
+4	33	1114	1122	recovery
+4	34	1122	1123	.
+#Data were continuously recorded throughout the entire session, stored at 0.25-second intervals, and then averaged over 5-minute intervals.
+5	1	1267	1271	Data
+5	2	1272	1276	were
+5	3	1277	1289	continuously
+5	4	1290	1298	recorded
+5	5	1299	1309	throughout
+5	6	1310	1313	the
+5	7	1314	1320	entire
+5	8	1321	1328	session
+5	9	1328	1329	,
+5	10	1330	1336	stored
+5	11	1337	1339	at
+5	12	1340	1351	0.25-second
+5	13	1352	1361	intervals
+5	14	1361	1362	,
+5	15	1363	1366	and
+5	16	1367	1371	then
+5	17	1372	1380	averaged
+5	18	1381	1385	over
+5	19	1386	1394	5-minute
+5	20	1395	1404	intervals
+5	21	1404	1405	.
+#To evaluate changes over time, overall means for the four time periods (rest, yoga, meditation, recovery) were compared using one-way ANOVA with repeated measures.
+6	1	1545	1547	To
+6	2	1548	1556	evaluate
+6	3	1557	1564	changes
+6	4	1565	1569	over
+6	5	1570	1574	time
+6	6	1574	1575	,
+6	7	1576	1583	overall
+6	8	1584	1589	means
+6	9	1590	1593	for
+6	10	1594	1597	the
+6	11	1598	1602	four
+6	12	1603	1607	time
+6	13	1608	1615	periods
+6	14	1616	1617	(
+6	15	1617	1621	rest
+6	16	1621	1622	,
+6	17	1623	1627	yoga
+6	18	1627	1628	,
+6	19	1629	1639	meditation
+6	20	1639	1640	,
+6	21	1641	1649	recovery
+6	22	1649	1650	)
+6	23	1651	1655	were
+6	24	1656	1664	compared
+6	25	1665	1670	using
+6	26	1671	1678	one-way
+6	27	1679	1684	ANOVA
+6	28	1685	1689	with
+6	29	1690	1698	repeated
+6	30	1699	1707	measures
+6	31	1707	1708	.
+#Post-hoc pairwise comparisons (Tukey's) were used to probe significant differences between the four time points.
+7	1	1873	1881	Post-hoc
+7	2	1882	1890	pairwise
+7	3	1891	1902	comparisons
+7	4	1903	1904	(
+7	5	1904	1909	Tukey
+7	6	1909	1911	's
+7	7	1911	1912	)
+7	8	1913	1917	were
+7	9	1918	1922	used
+7	10	1923	1925	to
+7	11	1926	1931	probe
+7	12	1932	1943	significant
+7	13	1944	1955	differences
+7	14	1956	1963	between
+7	15	1964	1967	the
+7	16	1968	1972	four
+7	17	1973	1977	time
+7	18	1978	1984	points
+7	19	1984	1985	.
+#Statistical significance was reached at p < .05.Results: Twenty participants were enrolled; 19 completed the yoga session.
+8	1	2099	2110	Statistical
+8	2	2111	2123	significance
+8	3	2124	2127	was
+8	4	2128	2135	reached
+8	5	2136	2138	at
+8	6	2139	2140	p
+8	7	2140	2141	 
+8	8	2141	2142	<
+8	9	2142	2143	 
+8	10	2143	2154	.05.Results
+8	11	2154	2155	:
+8	12	2156	2162	Twenty
+8	13	2163	2175	participants
+8	14	2176	2180	were
+8	15	2181	2189	enrolled
+8	16	2189	2190	;
+8	17	2191	2193	19
+8	18	2194	2203	completed
+8	19	2204	2207	the
+8	20	2208	2212	yoga
+8	21	2213	2220	session
+8	22	2220	2221	.
+#Mean gestational age was 35 weeks and 6 days (range of 32-0/7 to 38-6/7) with an average participant age of 32 ± 2.7 years.
+9	1	2345	2349	Mean
+9	2	2350	2361	gestational
+9	3	2362	2365	age
+9	4	2366	2369	was
+9	5	2370	2372	35
+9	6	2372	2373	 
+9	7	2373	2378	weeks
+9	8	2379	2382	and
+9	9	2383	2384	6
+9	10	2384	2385	 
+9	11	2385	2389	days
+9	12	2390	2391	(
+9	13	2391	2396	range
+9	14	2397	2399	of
+9	15	2400	2402	32
+9	16	2402	2403	-
+9	17	2403	2406	0/7
+9	18	2407	2409	to
+9	19	2410	2412	38
+9	20	2412	2413	-
+9	21	2413	2416	6/7
+9	22	2416	2417	)
+9	23	2418	2422	with
+9	24	2423	2425	an
+9	25	2426	2433	average
+9	26	2434	2445	participant
+9	27	2446	2449	age
+9	28	2450	2452	of
+9	29	2453	2455	32
+9	30	2455	2456	 
+9	31	2456	2457	±
+9	32	2457	2458	 
+9	33	2458	2461	2.7
+9	34	2461	2462	 
+9	35	2462	2467	years
+9	36	2467	2468	.
+#Maternal heart rates significantly increased during the yoga period (102 ± 11 bpm) compared to rest (90 ± 10), meditation (85 ± 12), and recovery (88 ± 10) (p < .01).
+10	1	2593	2601	Maternal
+10	2	2602	2607	heart
+10	3	2608	2613	rates
+10	4	2614	2627	significantly
+10	5	2628	2637	increased
+10	6	2638	2644	during
+10	7	2645	2648	the
+10	8	2649	2653	yoga
+10	9	2654	2660	period
+10	10	2661	2662	(
+10	11	2662	2665	102
+10	12	2665	2666	 
+10	13	2666	2667	±
+10	14	2667	2668	 
+10	15	2668	2670	11
+10	16	2670	2671	 
+10	17	2671	2674	bpm
+10	18	2674	2675	)
+10	19	2676	2684	compared
+10	20	2685	2687	to
+10	21	2688	2692	rest
+10	22	2693	2694	(
+10	23	2694	2696	90
+10	24	2696	2697	 
+10	25	2697	2698	±
+10	26	2698	2699	 
+10	27	2699	2701	10
+10	28	2701	2702	)
+10	29	2702	2703	,
+10	30	2704	2714	meditation
+10	31	2715	2716	(
+10	32	2716	2718	85
+10	33	2718	2719	 
+10	34	2719	2720	±
+10	35	2720	2721	 
+10	36	2721	2723	12
+10	37	2723	2724	)
+10	38	2724	2725	,
+10	39	2726	2729	and
+10	40	2730	2738	recovery
+10	41	2739	2740	(
+10	42	2740	2742	88
+10	43	2742	2743	 
+10	44	2743	2744	±
+10	45	2744	2745	 
+10	46	2745	2747	10
+10	47	2747	2748	)
+10	48	2749	2750	(
+10	49	2750	2751	p
+10	50	2751	2752	 
+10	51	2752	2753	<
+10	52	2753	2754	 
+10	53	2754	2757	.01
+10	54	2757	2758	)
+10	55	2758	2759	.
+#The maximum maternal heart rate reached during the yoga session was 125 ± 13 bpm.
+11	1	2927	2930	The
+11	2	2931	2938	maximum
+11	3	2939	2947	maternal
+11	4	2948	2953	heart
+11	5	2954	2958	rate
+11	6	2959	2966	reached
+11	7	2967	2973	during
+11	8	2974	2977	the
+11	9	2978	2982	yoga
+11	10	2983	2990	session
+11	11	2991	2994	was
+11	12	2995	2998	125
+11	13	2998	2999	 
+11	14	2999	3000	±
+11	15	3000	3001	 
+11	16	3001	3003	13
+11	17	3003	3004	 
+11	18	3004	3007	bpm
+11	19	3007	3008	.
+#While fetal heart rates fluctuated slightly over the course of the yoga session, there were no significant fetal heart rate decelerations to suggest deleterious fetal effects.
+12	1	3091	3096	While
+12	2	3097	3102	fetal
+12	3	3103	3108	heart
+12	4	3109	3114	rates
+12	5	3115	3125	fluctuated
+12	6	3126	3134	slightly
+12	7	3135	3139	over
+12	8	3140	3143	the
+12	9	3144	3150	course
+12	10	3151	3153	of
+12	11	3154	3157	the
+12	12	3158	3162	yoga
+12	13	3163	3170	session
+12	14	3170	3171	,
+12	15	3172	3177	there
+12	16	3178	3182	were
+12	17	3183	3185	no
+12	18	3186	3197	significant
+12	19	3198	3203	fetal
+12	20	3204	3209	heart
+12	21	3210	3214	rate
+12	22	3215	3228	decelerations
+12	23	3229	3231	to
+12	24	3232	3239	suggest
+12	25	3240	3251	deleterious
+12	26	3252	3257	fetal
+12	27	3258	3265	effects
+12	28	3265	3266	.
+#There were no statistically significant differences among resting
+13	1	3443	3448	There
+13	2	3449	3453	were
+13	3	3454	3456	no
+13	4	3457	3470	statistically
+13	5	3471	3482	significant
+13	6	3483	3494	differences
+13	7	3495	3500	among
+13	8	3501	3508	resting
+#(138 
+14	1	3575	3576	(
+14	2	3576	3579	138
+14	3	3579	3580	 
+#± 14 bpm), yoga
+15	1	3586	3587	±
+15	2	3587	3588	 
+15	3	3588	3590	14
+15	4	3590	3591	 
+15	5	3591	3594	bpm
+15	6	3594	3595	)
+15	7	3595	3596	,
+15	8	3597	3601	yoga
+#(137 
+16	1	3618	3619	(
+16	2	3619	3622	137
+16	3	3622	3623	 
+#± 
+17	1	3629	3630	±
+17	2	3630	3631	 
+#11 bpm), meditation
+18	1	3634	3636	11
+18	2	3636	3637	 
+18	3	3637	3640	bpm
+18	4	3640	3641	)
+18	5	3641	3642	,
+18	6	3643	3653	meditation
+#(139 
+19	1	3674	3675	(
+19	2	3675	3678	139
+19	3	3678	3679	 
+#± 
+20	1	3685	3686	±
+20	2	3686	3687	 
+#7 bpm), or recovery (135 ± 22 bpm) fetal heart rates (p =
+21	1	3690	3691	7
+21	2	3691	3692	 
+21	3	3692	3695	bpm
+21	4	3695	3696	)
+21	5	3696	3697	,
+21	6	3698	3700	or
+21	7	3701	3709	recovery
+21	8	3710	3711	(
+21	9	3711	3714	135
+21	10	3714	3715	 
+21	11	3715	3716	±
+21	12	3716	3717	 
+21	13	3717	3719	22
+21	14	3719	3720	 
+21	15	3720	3723	bpm
+21	16	3723	3724	)
+21	17	3725	3730	fetal
+21	18	3731	3736	heart
+21	19	3737	3742	rates
+21	20	3743	3744	(
+21	21	3744	3745	p
+21	22	3745	3746	 
+21	23	3746	3747	=
+# 
+22	1	3805	3806	 
+#.814)
+23	1	3808	3812	.814
+23	2	3812	3813	)
+#.
+24	1	3819	3820	.
+#Uterine activity was significantly greater during the yoga period compared with the other time points (p < .001).Conclusion: Yoga can be recommended for low-risk women during pregnancy as no adverse fetal or maternal heart rate changes were observed during a typical prenatal yoga session.
+25	1	3823	3830	Uterine
+25	2	3831	3839	activity
+25	3	3840	3843	was
+25	4	3844	3857	significantly
+25	5	3858	3865	greater
+25	6	3866	3872	during
+25	7	3873	3876	the
+25	8	3877	3881	yoga
+25	9	3882	3888	period
+25	10	3889	3897	compared
+25	11	3898	3902	with
+25	12	3903	3906	the
+25	13	3907	3912	other
+25	14	3913	3917	time
+25	15	3918	3924	points
+25	16	3925	3926	(
+25	17	3926	3927	p
+25	18	3927	3928	 
+25	19	3928	3929	<
+25	20	3929	3930	 
+25	21	3930	3946	.001).Conclusion
+25	22	3946	3947	:
+25	23	3948	3952	Yoga
+25	24	3953	3956	can
+25	25	3957	3959	be
+25	26	3960	3971	recommended
+25	27	3972	3975	for
+25	28	3976	3984	low-risk
+25	29	3985	3990	women
+25	30	3991	3997	during
+25	31	3998	4007	pregnancy
+25	32	4008	4010	as
+25	33	4011	4013	no
+25	34	4014	4021	adverse
+25	35	4022	4027	fetal
+25	36	4028	4030	or
+25	37	4031	4039	maternal
+25	38	4040	4045	heart
+25	39	4046	4050	rate
+25	40	4051	4058	changes
+25	41	4059	4063	were
+25	42	4064	4072	observed
+25	43	4073	4079	during
+25	44	4080	4081	a
+25	45	4082	4089	typical
+25	46	4090	4098	prenatal
+25	47	4099	4103	yoga
+25	48	4104	4111	session
+25	49	4111	4112	.

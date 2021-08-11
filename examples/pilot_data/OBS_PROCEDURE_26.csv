@@ -1,0 +1,315 @@
+#The Role of Mindfulness in the Insomnia Severity of Female Chronic Hypnotic Users
+1	1	0	3	The
+1	2	4	8	Role
+1	3	9	11	of
+1	4	12	23	Mindfulness
+1	5	24	26	in
+1	6	27	30	the
+1	7	31	39	Insomnia
+1	8	40	48	Severity
+1	9	49	51	of
+1	10	52	58	Female
+1	11	59	66	Chronic
+1	12	67	75	Hypnotic
+1	13	76	81	Users
+#PURPOSE: To investigate dispositional mindfulness, psychiatric symptoms, and their relationship with insomnia severity among female chronic hypnotic users.
+2	1	82	89	PURPOSE
+2	2	89	90	:
+2	3	91	93	To
+2	4	94	105	investigate
+2	5	106	119	dispositional
+2	6	120	131	mindfulness
+2	7	131	132	,
+2	8	133	144	psychiatric
+2	9	145	153	symptoms
+2	10	153	154	,
+2	11	155	158	and
+2	12	159	164	their
+2	13	165	177	relationship
+2	14	178	182	with
+2	15	183	191	insomnia
+2	16	192	200	severity
+2	17	201	206	among
+2	18	207	213	female
+2	19	214	221	chronic
+2	20	222	230	hypnotic
+2	21	231	236	users
+2	22	236	237	.
+#METHODS: Observational, cross-sectional study, including 76 women with chronic hypnotic use.
+3	1	394	401	METHODS
+3	2	401	402	:
+3	3	403	416	Observational
+3	4	416	417	,
+3	5	418	433	cross-sectional
+3	6	434	439	study
+3	7	439	440	,
+3	8	441	450	including
+3	9	451	453	76
+3	10	454	459	women
+3	11	460	464	with
+3	12	465	472	chronic
+3	13	473	481	hypnotic
+3	14	482	485	use
+3	15	485	486	.
+#Participants completed several self-report questionnaires: sociodemographic characteristics, depressive symptoms (CES-D), anxiety levels (STAI-T), dispositional mindfulness (FFMQ), and insomnia severity (ISI).
+4	1	580	592	Participants
+4	2	593	602	completed
+4	3	603	610	several
+4	4	611	622	self-report
+4	5	623	637	questionnaires
+4	6	637	638	:
+4	7	639	655	sociodemographic
+4	8	656	671	characteristics
+4	9	671	672	,
+4	10	673	683	depressive
+4	11	684	692	symptoms
+4	12	693	694	(
+4	13	694	699	CES-D
+4	14	699	700	)
+4	15	700	701	,
+4	16	702	709	anxiety
+4	17	710	716	levels
+4	18	717	718	(
+4	19	718	724	STAI-T
+4	20	724	725	)
+4	21	725	726	,
+4	22	727	740	dispositional
+4	23	741	752	mindfulness
+4	24	753	754	(
+4	25	754	758	FFMQ
+4	26	758	759	)
+4	27	759	760	,
+4	28	761	764	and
+4	29	765	773	insomnia
+4	30	774	782	severity
+4	31	783	784	(
+4	32	784	787	ISI
+4	33	787	788	)
+4	34	788	789	.
+#Exploratory linear regression models were used to identify factors related to insomnia severity.
+5	1	1000	1011	Exploratory
+5	2	1012	1018	linear
+5	3	1019	1029	regression
+5	4	1030	1036	models
+5	5	1037	1041	were
+5	6	1042	1046	used
+5	7	1047	1049	to
+5	8	1050	1058	identify
+5	9	1059	1066	factors
+5	10	1067	1074	related
+5	11	1075	1077	to
+5	12	1078	1086	insomnia
+5	13	1087	1095	severity
+5	14	1095	1096	.
+#RESULTS: Multiple linear regression models showed that, for the total sample (N = 76), age (B = - 0.14, p = 0.003), depressive symptoms (B = 0.16, p = 0.005), and the mindfulness facets "observe" (B = 0.21. p = 0.013) and "act with awareness-auto pilot" (B = - 0.48, p = 0.017) were correlated to insomnia severity.
+6	1	1194	1201	RESULTS
+6	2	1201	1202	:
+6	3	1203	1211	Multiple
+6	4	1212	1218	linear
+6	5	1219	1229	regression
+6	6	1230	1236	models
+6	7	1237	1243	showed
+6	8	1244	1248	that
+6	9	1248	1249	,
+6	10	1250	1253	for
+6	11	1254	1257	the
+6	12	1258	1263	total
+6	13	1264	1270	sample
+6	14	1271	1272	(
+6	15	1272	1273	N
+6	16	1273	1274	 
+6	17	1274	1275	=
+6	18	1275	1276	 
+6	19	1276	1278	76
+6	20	1278	1279	)
+6	21	1279	1280	,
+6	22	1281	1284	age
+6	23	1285	1286	(
+6	24	1286	1287	B
+6	25	1287	1288	 
+6	26	1288	1289	=
+6	27	1289	1290	 
+6	28	1290	1291	-
+6	29	1291	1292	 
+6	30	1292	1296	0.14
+6	31	1296	1297	,
+6	32	1298	1299	p
+6	33	1299	1300	 
+6	34	1300	1301	=
+6	35	1301	1302	 
+6	36	1302	1307	0.003
+6	37	1307	1308	)
+6	38	1308	1309	,
+6	39	1310	1320	depressive
+6	40	1321	1329	symptoms
+6	41	1330	1331	(
+6	42	1331	1332	B
+6	43	1332	1333	 
+6	44	1333	1334	=
+6	45	1334	1335	 
+6	46	1335	1339	0.16
+6	47	1339	1340	,
+6	48	1341	1342	p
+6	49	1342	1343	 
+6	50	1343	1344	=
+6	51	1344	1345	 
+6	52	1345	1350	0.005
+6	53	1350	1351	)
+6	54	1351	1352	,
+6	55	1353	1356	and
+6	56	1357	1360	the
+6	57	1361	1372	mindfulness
+6	58	1373	1379	facets
+6	59	1380	1381	"
+6	60	1381	1388	observe
+6	61	1388	1389	"
+6	62	1390	1391	(
+6	63	1391	1392	B
+6	64	1392	1393	 
+6	65	1393	1394	=
+6	66	1394	1395	 
+6	67	1395	1399	0.21
+6	68	1399	1400	.
+6	69	1401	1402	p
+6	70	1402	1403	 
+6	71	1403	1404	=
+6	72	1404	1405	 
+6	73	1405	1410	0.013
+6	74	1410	1411	)
+6	75	1412	1415	and
+6	76	1416	1417	"
+6	77	1417	1420	act
+6	78	1421	1425	with
+6	79	1426	1440	awareness-auto
+6	80	1441	1446	pilot
+6	81	1446	1447	"
+6	82	1448	1449	(
+6	83	1449	1450	B
+6	84	1450	1451	 
+6	85	1451	1452	=
+6	86	1452	1453	 
+6	87	1453	1454	-
+6	88	1454	1455	 
+6	89	1455	1459	0.48
+6	90	1459	1460	,
+6	91	1461	1462	p
+6	92	1462	1463	 
+6	93	1463	1464	=
+6	94	1464	1465	 
+6	95	1465	1470	0.017
+6	96	1470	1471	)
+6	97	1472	1476	were
+6	98	1477	1487	correlated
+6	99	1488	1490	to
+6	100	1491	1499	insomnia
+6	101	1500	1508	severity
+6	102	1508	1509	.
+#CONCLUSION: Results confirm a relationship between mindfulness and insomnia among female chronic hypnotic users, specifically regarding the ability to observe and act with awareness.
+7	1	1826	1836	CONCLUSION
+7	2	1836	1837	:
+7	3	1838	1845	Results
+7	4	1846	1853	confirm
+7	5	1854	1855	a
+7	6	1856	1868	relationship
+7	7	1869	1876	between
+7	8	1877	1888	mindfulness
+7	9	1889	1892	and
+7	10	1893	1901	insomnia
+7	11	1902	1907	among
+7	12	1908	1914	female
+7	13	1915	1922	chronic
+7	14	1923	1931	hypnotic
+7	15	1932	1937	users
+7	16	1937	1938	,
+7	17	1939	1951	specifically
+7	18	1952	1961	regarding
+7	19	1962	1965	the
+7	20	1966	1973	ability
+7	21	1974	1976	to
+7	22	1977	1984	observe
+7	23	1985	1988	and
+7	24	1989	1992	act
+7	25	1993	1997	with
+7	26	1998	2007	awareness
+7	27	2007	2008	.
+#A higher score on the "observe" facet was positively correlated with insomnia.
+8	1	2192	2193	A
+8	2	2194	2200	higher
+8	3	2201	2206	score
+8	4	2207	2209	on
+8	5	2210	2213	the
+8	6	2214	2215	"
+8	7	2215	2222	observe
+8	8	2222	2223	"
+8	9	2224	2229	facet
+8	10	2230	2233	was
+8	11	2234	2244	positively
+8	12	2245	2255	correlated
+8	13	2256	2260	with
+8	14	2261	2269	insomnia
+8	15	2269	2270	.
+#This may
+9	1	2350	2354	This
+9	2	2355	2358	may
+#be because the skill of observing itself, isolated from other mindfulness precepts, does not provide sufficient strategies to cope with the observed discomfort.
+10	1	2368	2370	be
+10	2	2371	2378	because
+10	3	2379	2382	the
+10	4	2383	2388	skill
+10	5	2389	2391	of
+10	6	2392	2401	observing
+10	7	2402	2408	itself
+10	8	2408	2409	,
+10	9	2410	2418	isolated
+10	10	2419	2423	from
+10	11	2424	2429	other
+10	12	2430	2441	mindfulness
+10	13	2442	2450	precepts
+10	14	2450	2451	,
+10	15	2452	2456	does
+10	16	2457	2460	not
+10	17	2461	2468	provide
+10	18	2469	2479	sufficient
+10	19	2480	2490	strategies
+10	20	2491	2493	to
+10	21	2494	2498	cope
+10	22	2499	2503	with
+10	23	2504	2507	the
+10	24	2508	2516	observed
+10	25	2517	2527	discomfort
+10	26	2527	2528	.
+#Increased "acting with awareness-autopilot" was negatively correlated with insomnia severity, arguably because it stimulates breaking automatic patterns of thoughts and behaviors that contribute to the perpetuation of the insomnia cycle.
+11	1	2690	2699	Increased
+11	2	2700	2701	"
+11	3	2701	2707	acting
+11	4	2708	2712	with
+11	5	2713	2732	awareness-autopilot
+11	6	2732	2733	"
+11	7	2734	2737	was
+11	8	2738	2748	negatively
+11	9	2749	2759	correlated
+11	10	2760	2764	with
+11	11	2765	2773	insomnia
+11	12	2774	2782	severity
+11	13	2782	2783	,
+11	14	2784	2792	arguably
+11	15	2793	2800	because
+11	16	2801	2803	it
+11	17	2804	2814	stimulates
+11	18	2815	2823	breaking
+11	19	2824	2833	automatic
+11	20	2834	2842	patterns
+11	21	2843	2845	of
+11	22	2846	2854	thoughts
+11	23	2855	2858	and
+11	24	2859	2868	behaviors
+11	25	2869	2873	that
+11	26	2874	2884	contribute
+11	27	2885	2887	to
+11	28	2888	2891	the
+11	29	2892	2904	perpetuation
+11	30	2905	2907	of
+11	31	2908	2911	the
+11	32	2912	2920	insomnia
+11	33	2921	2926	cycle
+11	34	2926	2927	.

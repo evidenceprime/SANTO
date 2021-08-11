@@ -1,0 +1,35 @@
+#Domain	Relation	Range	From	To	IsDataTypeProperty	MergedName	Description
+Study details	Property	Study design	?	?	true	Study design	TBD
+Study details	Property	Socioeconomic setting	?	?	true	Socioeconomic setting	TBD
+Population	Property	Sample size	?	?	true	Sample size	TBD
+Population	Property	Subject	?	?	true	Subject	TBD
+Population	Property	Age	?	?	true	Age	TBD
+Population	Property	Age value	?	?	true	Age value	TBD
+Population	Property	Sex	?	?	true	Sex	TBD
+Population	Property	Race / ethnicity	?	?	true	Race / ethnicity	TBD
+Condition	Property	Condition name	?	?	true	Condition name	TBD
+Condition	Property	Condition stage / grade / treatment	?	?	true	Condition stage / grade / treatment	TBD
+Population	Property	Genetic variable	?	?	true	Genetic variable	TBD
+Population	Property	Lifestyle / risk factors	?	?	true	Lifestyle / risk factors	TBD
+Population	Property	Socioeconomic status	?	?	true	Socioeconomic status	TBD
+Population	Property	Education status	?	?	true	Education status	TBD
+Population	Property	Employment status	?	?	true	Employment status	TBD
+Population	Property	Martial status	?	?	true	Martial status	TBD
+Population	Reference	Condition	1	m	true	Conditions	TBD
+Population	Reference	Intervention	1	m	true	Reference Intervention	TBD
+Population	Reference	Outcome	1	m	true	Reference Outcome	TBD
+Intervention	Property	Drug	?	?	true	Drug	TBD
+Intervention	Property	Procedure	?	?	true	Procedure	TBD
+Intervention	Property	Device	?	?	true	Device	TBD
+Intervention	Property	Exposure	?	?	true	Exposure	TBD
+Intervention	Property	NoIn / PI / W&W	?	?	true	NoIn / PI / W&W	TBD
+Intervention	Property	Dose amount	?	?	true	Dose amount	TBD
+Intervention	Property	Duration	?	?	true	Duration	TBD
+Intervention	Property	Route of administration	?	?	true	Route of administration	TBD
+Intervention	Property	Setting of care	?	?	true	Setting of care	TBD
+Intervention	Reference	Population	1	m	true	Reference Population	TBD
+Intervention	Reference	Outcome	1	m	true	Reference Outcome	TBD
+Outcome	Property	Outcome name	?	?	true	Outcome name	TBD
+Outcome	Property	Outcome timepoint	?	?	true	Outcome timepoint	TBD
+Outcome	Reference	Population	1	m	true	Reference Population	TBD
+Outcome	Reference	Intervention	1	m	true	Reference Intervention	TBD
